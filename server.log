@@ -678,3 +678,61 @@
 2013-09-21 13:06:14 [INFO] Saving chunks for level 'world'/Nether
 2013-09-21 13:06:14 [INFO] Saving chunks for level 'world'/The End
 2013-09-21 13:06:14 [INFO] Stopping server
+2013-09-21 14:50:28 [INFO] Starting minecraft server version 1.6.4
+2013-09-21 14:50:28 [INFO] Loading properties
+2013-09-21 14:50:28 [INFO] Default game type: SURVIVAL
+2013-09-21 14:50:28 [INFO] Generating keypair
+2013-09-21 14:50:29 [INFO] Starting Minecraft server on *:25565
+2013-09-21 14:50:29 [INFO] Preparing level "world"
+2013-09-21 14:50:30 [INFO] Preparing start region for level 0
+2013-09-21 14:50:30 [INFO] Done (0,929s)! For help, type "help" or "?"
+2013-09-21 14:51:51 [SEVERE] Reached end of stream for /127.0.0.1
+2013-09-21 14:51:57 [INFO] Lord_Tux[/127.0.0.1:1348] logged in with entity id 345 at (83.13186378626585, 70.0, 256.69999998807907)
+2013-09-21 14:51:57 [INFO] Lord_Tux joined the game
+2013-09-21 14:56:52 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 14:56:59 [INFO] jojo_1992[/192.168.2.110:49281] logged in with entity id 7482 at (73.5, 64.0, 267.5)
+2013-09-21 14:56:59 [INFO] jojo_1992 joined the game
+2013-09-21 15:01:34 [INFO] Lord_Tux lost connection: disconnect.quitting
+2013-09-21 15:01:34 [INFO] Lord_Tux left the game
+2013-09-21 15:01:44 [SEVERE] Reached end of stream for /127.0.0.1
+2013-09-21 15:01:47 [INFO] Lord_Tux[/127.0.0.1:1489] logged in with entity id 12805 at (69.82065517071551, 64.0, 274.45368671522766)
+2013-09-21 15:01:47 [INFO] Lord_Tux joined the game
+2013-09-21 15:26:35 [INFO] jojo_1992 lost connection: disconnect.genericReason
+2013-09-21 15:26:35 [INFO] jojo_1992 left the game
+2013-09-21 15:26:46 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 15:26:51 [INFO] jojo_1992[/192.168.2.110:49327] logged in with entity id 50942 at (104.9873030316999, 78.0, 232.59185403644923)
+2013-09-21 15:26:51 [INFO] jojo_1992 joined the game
+2013-09-21 15:27:57 [INFO] Lord_Tux lost connection: disconnect.quitting
+2013-09-21 15:27:57 [INFO] Lord_Tux left the game
+2013-09-21 15:45:09 [INFO] jojo_1992 lost connection: disconnect.quitting
+2013-09-21 15:45:09 [INFO] jojo_1992 left the game
+2013-09-21 17:08:24 [INFO] Stopping server
+2013-09-21 17:08:24 [INFO] Saving players
+2013-09-21 17:08:24 [INFO] Saving worlds
+2013-09-21 17:08:24 [INFO] Closing listening thread
+2013-09-21 17:08:24 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-21 17:08:24 [INFO] Saving chunks for level 'world'/Nether
+2013-09-21 17:08:24 [INFO] Saving chunks for level 'world'/The End
+2013-09-21 17:08:24 [INFO] Stopping server
+2013-09-21 18:39:47 [INFO] Starting minecraft server version 1.6.4
+2013-09-21 18:39:47 [INFO] Loading properties
+2013-09-21 18:39:47 [INFO] Default game type: SURVIVAL
+2013-09-21 18:39:47 [INFO] Generating keypair
+2013-09-21 18:39:48 [INFO] Starting Minecraft server on *:25565
+2013-09-21 18:39:48 [INFO] Preparing level "world"
+2013-09-21 18:39:48 [INFO] Preparing start region for level 0
+2013-09-21 18:39:49 [INFO] Done (1,013s)! For help, type "help" or "?"
+2013-09-21 18:41:04 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 18:41:39 [INFO] Disconnecting jojo_1992 [/192.168.2.110:37367]: Took too long to log in
+2013-09-21 18:41:52 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 18:41:56 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 18:41:56 [INFO] jojo_1992 [/192.168.2.110:37373] lost connection
+2013-09-21 18:42:00 [SEVERE] Reached end of stream for /192.168.2.110
+2013-09-21 20:00:30 [INFO] Stopping server
+2013-09-21 20:00:30 [INFO] Saving players
+2013-09-21 20:00:30 [INFO] Saving worlds
+2013-09-21 20:00:30 [INFO] Closing listening thread
+2013-09-21 20:00:30 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-21 20:00:30 [INFO] Saving chunks for level 'world'/Nether
+2013-09-21 20:00:30 [INFO] Saving chunks for level 'world'/The End
+2013-09-21 20:00:31 [INFO] Stopping server
